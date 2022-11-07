@@ -25,7 +25,7 @@ public class TwoDArrayDemoProgram2 {
     MyArray[2][1]=9;
     MyArray[2][2]=5;
     
-    //variable diclararion area
+    //variable diclaration area
     int row,column;
    
     for(row=0;row<3;row++)
